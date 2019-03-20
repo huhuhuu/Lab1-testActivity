@@ -53,4 +53,4 @@ This program demonstrates "Hello World" and validates the life cycle of Activity
 <br>4.click return button, execute onPause(), onStop(), onDestroy().
 ![This picture is saved in the screenshot folder.](https://github.com/huhuhuu/Lab1-testActivity/blob/master/screenshot/click%20return%20button%2Cthe%20application%20had%20been%20destory.PNG)
 <br>5.this a picture of a Android program's live.
-<br><img src="https://img-blog.csdn.net/20180615065627921?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RlbkZpZ3VyZXM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" align="left">
+<br><img src="https://developer.android.google.cn/images/activity_lifecycle.png" align="left">
